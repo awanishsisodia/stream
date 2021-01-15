@@ -3,4 +3,3 @@ gunicorn
 sqlparse==0.3.1
 whitenoise
 virtualenv==20.0.34
-Pillow
