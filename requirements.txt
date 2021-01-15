@@ -2,4 +2,3 @@ Django==3.0.7
 gunicorn
 sqlparse==0.3.1
 whitenoise
-
